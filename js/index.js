@@ -1,6 +1,6 @@
 var hmacsha1 = require('hmacsha1');
 
-var baseURL = "http://timetableapi.ptv.vic.gov.au/v3/";
+var baseURL = "http://timetableapi.ptv.vic.gov.au/";
 var dev_id = "3001296";
 var key = "2765ded7-ed93-4e8c-87ff-dfda9edc0bc8";
 
