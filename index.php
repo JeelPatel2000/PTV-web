@@ -1,0 +1,17 @@
+<html lang="en">
+    <head>
+        <title>PTV Web Journey Planner</title>
+    </head>
+    <body>
+        <form action="">
+            <label for="start">Starting Point</label><br>
+            <input type="text" name="" id="start"><br>
+            <label for="end">Destination</label><br>
+            <input type="text" name="" id="end"><br>
+            <button id="search">Search</button>
+            <input type="reset" value="Clear">
+        </form>
+        <script src="js/index.js"></script>
+    </body>
+    
+</html>
